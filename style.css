@@ -153,4 +153,41 @@
     }
 }
 /* card3 */
+#btn4 button{
+    width: 150px;
+    height: 30px;
+    background: transparent;
+    border: 1px solid black;
+    transition: 0.5s ease;
+    cursor: pointer;
+}
+#btn4 button:hover{
+    background-color: rgba(238,224,208);
+}
+/* footer */
+#footer{
+    width: 100%;
+    background-color: black;
+    margin-top: 100px;
+}
+#footer h1{
+    color: white;
+    padding-top: 30px;
+}
+#footer p{
+    color: white;
+}
+.icons i{
+    color: rgba(238,224,208);
+    font-size: 30px;
+    cursor: pointer;
+}
+.copyright{
+    color: white;
+    margin-top: 20px;
+}
+.credite{
+    color: white;
+}
+/* footer */
 
